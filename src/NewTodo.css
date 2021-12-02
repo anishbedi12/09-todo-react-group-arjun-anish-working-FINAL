@@ -1,0 +1,33 @@
+#task {
+    position: relative;
+    border: 2px solid grey;
+    border-radius: 5px;
+    font-family: sans-serif;
+    height: 20px;
+    right: 2px;
+}
+
+#adding {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#add {
+    position: relative;
+    border: 2px solid greenyellow;
+    background-color: rgb(47, 255, 82);
+    border-radius: 5px;
+    font-family: sans-serif;
+    height: 27px;
+    margin-top: 13px;
+    right: 70px;
+}
+
+#add:hover {
+    background-color: rgb(17, 153, 17);
+}
+
+#task:hover {
+    background-color: lightslategray;
+}
